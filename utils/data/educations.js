@@ -9,12 +9,12 @@ export const educations = [
     id: 2,
     title: "Higher Secondary Certificate",
     duration: "2020 - 2022",
-    institution: "P.K Rot Memorial College",
+    institution: "P.K Roy Memorial College",
   },
-  {
-    id: 3,
-    title: "Secondary School Certificate",
-    duration: "2010 - 2020",
-    institution: "Dhanbad Public School",
-  }
+  // {
+  //   id: 3,
+  //   title: "Secondary School Certificate",
+  //   duration: "2010 - 2020",
+  //   institution: "Dhanbad Public School",
+  // }
 ]

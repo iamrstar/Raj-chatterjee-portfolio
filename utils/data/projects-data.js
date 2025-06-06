@@ -14,13 +14,24 @@ export const projectsData = [
         demo: '',
         image: crefin,
     },
+    {
+    id: 4,
+    name: 'CRM Web App',
+    description: "Developed a full-stack CRM web application using React, Node.js, Express, and MySQL. Built an interactive dashboard with React and Material UI, managed state with Redux, and handled form inputs using React Hook Form. Implemented RESTful APIs with Express and stored data in MySQL.",
+    tools: ['ReactJs', 'Material UI', 'Redux', 'React Hook Form', 'Node.js', 'Express', 'MySQL', 'Calendar'],
+    code: '',
+    demo: '',
+    image: ayla,
+    role: 'Full Stack Developer',
+}
+,
     
  
     {
         id: 4,
         name: 'Employee Management',
-        description: " I developed a newspaper management dashboard application called Newsroom Management. As a front-end developer, I worked on creating the dashboard using NextJS, Material UI, Redux, Calendar, and other necessary npm libraries. We used React Redux to manage the application's state and React-hook-form and Sun Editor to handle forms.",
-        tools: ['NextJS', 'Material UI', 'Redux', 'Sun Editor', "Calendar"],
+        description: " Built a responsive employee management dashboard using React, Material UI, Redux, and React Hook Form. Used localStorage for backend-like data persistence and integrated Sun Editor for rich text input.",
+        tools: ['ReactJs', 'Material UI', 'Redux', 'React Hook Form', 'localStorage', "Calendar"],
         code: '',
         demo: '',
         image: ayla,
@@ -29,9 +40,7 @@ export const projectsData = [
 ];
 
 
-// Do not remove any property.
-// Leave it blank instead as shown below
-
+// demo
 // {
 //     id: 1,
 //     name: '',
