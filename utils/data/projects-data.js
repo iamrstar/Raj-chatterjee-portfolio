@@ -4,16 +4,17 @@ import realEstate from '/public/image/real-estate.jpg';
 import travel from '/public/image/travel.jpg';
 
 export const projectsData = [
-    {
-        id: 1,
-        name: 'A Online Ticket Platform', 
-        description: "I am building an online ticketing web application, focusing on the front-end and key features to enhance user experience. This includes APIs developed with Express, JavaScript, OpenAI, AWS, and MongoDB for functionality. The authentication system uses OTP via AWS SES, with options for Google and Facebook login. AI assistants leverage OpenAI’s latest model, and voice messages are converted to text using AWS Transcribe. Data is fetched from Google Sheets, and PDF term sheets are generated and sent via AWS SES.",
-        tools: ['Express', 'MongoDB', 'OpenAI API', 'AWS SES', 'AWS Transcribe', 'Google Sheets API', 'React JavaScript', 'Node Mailer', 'PDF Generation', 'AWS S3', 'Next.js', 'Tailwind CSS', 'JWT Authentication'],
-        role: 'Full Stack Developer',
-        code: '',
-        demo: '',
-        image: crefin,
-    },
+ {
+    id: 1,
+    name: 'Courier-Parcel Booking System',
+    description: "I am developing a multi-step courier and parcel booking system focused on providing a seamless user experience. The front-end is built using Next.js and Tailwind CSS, while the backend uses Express.js, MongoDB, and JWT for secure authentication. Users can book parcels by selecting pickup/drop pincodes, delivery type (Surface, Air, Express, Premium), upload parcel images, and choose payment methods (COD or Online via Razorpay). AWS SES is used for OTP-based email authentication and confirmation emails. Dynamic pricing, tax, insurance, discount codes, and real-time order tracking are key features. The platform is designed to be scalable, fast, and user-friendly.",
+    tools: ['Next.js', 'React', 'Tailwind CSS', 'Express.js', 'MongoDB', 'JWT Authentication', 'AWS SES', 'Razorpay Integration', 'Parcel Image Upload', 'Dynamic Pricing', 'PDF Generation', 'Cloud Storage', 'REST API'],
+    role: 'Full Stack Developer',
+    code: '',
+    demo: '',
+    image: crefin,
+}
+,
     {
     id: 4,
     name: 'CRM Web App',
