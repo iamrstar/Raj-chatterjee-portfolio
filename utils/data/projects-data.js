@@ -41,14 +41,3 @@ export const projectsData = [
 ];
 
 
-// demo
-// {
-//     id: 1,
-//     name: '',
-//     description: "",
-//     tools: [],
-//     role: '',
-//     code: '',
-//     demo: '',
-//     image: crefin,
-// },
