@@ -2,13 +2,13 @@ export const experiences = [
   {
     id: 1,
     title: 'Software Developer I',
-    company: "A1 Networks Ltd.",
+    company: "A1 NETWORK And IT SOLUTION Ltd.",
     duration: "(FEB 2025 - Present)"
   },
   {
     id: 2,
     title: "FullStack Developer",
-    company: "Fiverr (freelance)",
+    company: "(freelance)",
     duration: "(Jun 2022 - Jan 2023)"
   },
   {
