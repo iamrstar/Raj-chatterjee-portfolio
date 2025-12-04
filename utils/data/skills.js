@@ -3,6 +3,9 @@ export const skillsData = [
   'CSS',
   'Javascript',
   'Typescript',
+   'C',
+  'C++',
+  'python',
   'React',
   'Next JS',
   'Tailwind',
@@ -10,16 +13,14 @@ export const skillsData = [
   'MySQL',
   'PostgreSQL',
   'Git',
-  'AWS',
+ 
  
  
   
   'Figma',
   
   'Canva',
-  'C',
-  'C++',
-  'python',
+ 
   
 ]
 
@@ -107,3 +108,4 @@ export const skillsData = [
   Webex
   Wordpress
 */
+
